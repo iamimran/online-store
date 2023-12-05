@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f2f2f2;
+  height: 80px;
+}
+
+.logo-container {
+  margin-left: 4%;
+}
+
+.logo-home {
+  width: 53px;
+}
+
+.action-bar {
+  margin-right: 4%;
+}
